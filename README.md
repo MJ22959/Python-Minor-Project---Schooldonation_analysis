@@ -54,3 +54,6 @@ k. pip install basemap / conda install basemap
 l. pip install tensorflow
 
 m. pip install folium
+
+For the datasets used in the project :
+https://drive.google.com/drive/folders/1ZW567PWLIaoiqc12MSz1jrm8FBljDNgk?usp=sharing
